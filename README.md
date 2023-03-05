@@ -40,6 +40,6 @@ yarn
 yarn start
 ```
 
-## Any questions?
-
-File an issue or reach out to me on Twitter ([@jacques_codes](https://twitter.com/jacques_codes)). I'd be more than happy to help!
+5. version
+- node v16.4.2
+- npm 8.13.2
